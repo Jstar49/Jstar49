@@ -1,5 +1,13 @@
 Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Joestar094?style=social)
+
+**About me :** 
+ 
+ + Student. 
+ + lsp (●'◡'●)
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joessem&show_icons=true&theme=dark)
 <!--
 **MyBules/mybules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
