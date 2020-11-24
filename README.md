@@ -1,6 +1,7 @@
 Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Joestar094?style=social)
+
+
 
 **About me :** 
  
