@@ -9,7 +9,9 @@ Social : [![](https://img.shields.io/badge/twitter-@Joestar094-blue.svg)](https:
  + lsp (●'◡'●)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joessem&show_icons=true&theme=dark)
+
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=bobby285271&show_icons=true&theme=dark" height="180px"></a> 
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby285271&layout=compact&theme=dark" height="180px"></a>
 <!--
 **MyBules/mybules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
