@@ -11,8 +11,8 @@ Blog : https://joessem.com/
 
 
 
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=bobby285271&show_icons=true&theme=dark" height="180px"></a> 
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobby285271&layout=compact&theme=dark" height="180px"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=Joessem&show_icons=true&theme=dark" height="180px"></a> 
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joessem&layout=compact&theme=dark" height="180px"></a>
 <!--
 **MyBules/mybules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
